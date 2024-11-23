@@ -1,4 +1,4 @@
-Can buffer strategy be an alternative 60/40 strategy?
+## Can buffer strategy be an alternative 60/40 strategy?
 
 The Buffer ETF strategy offers a structured investment approach designed to mitigate downside risk while providing capped upside returns. By employing options-based mechanisms, such as purchasing protective puts and selling covered calls, this strategy creates a "buffer zone" to absorb losses up to a predetermined threshold, offering protection against moderate market declines. Simultaneously, the cap level on gains is determined by market conditions, option costs, and implied volatility. With flexible configurations across buffer levels and maturities, the strategy caters to diverse investor profiles, balancing risk and return preferences. 
 
